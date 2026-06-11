@@ -2,9 +2,6 @@
 
 Tela de cadastro responsiva feita com HTML5 e CSS Flexbox.
 
-### 🚀 Demo
-https://wesleydev.github.io
-
 ### 🛠 Tecnologias
 - HTML5 Semântico
 - CSS3 Flexbox
