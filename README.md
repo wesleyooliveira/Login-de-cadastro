@@ -8,7 +8,7 @@ Tela de cadastro 100% responsiva desenvolvida com HTML5 e CSS3.
 ### 💻 Preview
 | Desktop | Mobile |
 | --- | --- |
-| <img src="https://via.placeholder.com/400x300/1a1a1a/ffffff?text=Desktop" width="400"> | <img src="https://via.placeholder.com/200x350/1a1a1a/ffffff?text=Mobile" width="200"> |
+| <img width="1523" height="760" alt="Image" src="https://github.com/user-attachments/assets/a2a216bb-a783-41bf-85ed-7f11ba3ec5ce" /> | <img width="739" height="1600" alt="Image" src="https://github.com/user-attachments/assets/fd9ddead-d21b-4bdd-9e84-5ddb4fd9ffb2" /> |
 
 > Troca esses links depois por print do teu site. Tira um print no PC e outro no celular, sobe nas Issues do Github e pega o link da imagem.
 
