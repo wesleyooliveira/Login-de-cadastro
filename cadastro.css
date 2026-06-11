@@ -1,0 +1,60 @@
+/* Estilos da página de cadastro */
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 80vh;
+  padding: 20px;
+}
+
+form {
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+  width: 300px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+form h1 {
+  font-size: 24px;
+  margin-top: 0;
+  margin-bottom: 16px;
+}
+
+label {
+  display: block;
+  margin-top: 8px;
+  margin-bottom: 4px;
+}
+
+input,
+button {
+  width: 100%;
+  padding: 10px;
+  margin: 5px 0;
+  box-sizing: border-box;
+}
+
+button {
+  background: green;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+button:hover {
+  background: #2e7d32;
+}
+
+form a {
+  display: block;
+  text-align: center;
+  margin-top: 10px;
+  color: #1a1a1a;
+  text-decoration: none;
+}
+
+form a:hover {
+  color: #4caf50;
+}

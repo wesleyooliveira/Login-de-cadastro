@@ -1,0 +1,79 @@
+/* Estilos gerais */
+body {
+  font-family: Arial, sans-serif;
+  background: #f0f0f0;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  background: #1a1a1a;
+  color: white;
+}
+
+nav {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: center;
+  list-style: none;
+}
+
+nav a{
+    text-decoration: none;
+    color: white;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+}
+
+/* RESPONSIVO WESLEY DEV */
+@media (max-width: 768px) {
+  header {
+    flex-direction: column;
+    gap: 16px;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  header h2 {
+    margin: 0;
+    font-size: 22px;
+  }
+  
+  nav {
+    flex-direction: column;
+    gap: 12px;
+    align-items: center;
+  }
+  
+  nav a {
+    font-size: 16px;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  form {
+    width: 100%;
+  }
+  
+  h1 {
+    font-size: 22px;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+}
